@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.2.3",
+    "@angular/compiler-cli": "^18.2.0",
+    "typescript": "~5.5.2"
+  },
+  "name": "movie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "ng build",
+    "serve": "ng serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@angular/cli": "^18.2.3",
+    "@angular/core": "^18.2.3",
+    "@angular/platform-browser": "^18.2.3",
+    "@angular/router": "^18.2.3",
+    "bootstrap": "^5.3.3"
+  }
+}
